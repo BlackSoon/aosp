@@ -26,7 +26,7 @@ TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
 
 # Device identifications
-PRODUCT_NAME := lineage_dogo
+PRODUCT_NAME := aosp_dogo
 PRODUCT_DEVICE := dogo
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
