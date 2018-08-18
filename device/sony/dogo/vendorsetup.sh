@@ -15,5 +15,7 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_dogo-eng
-add_lunch_combo aosp_dogo-userdebug
+add_lunch_combo aosp_c5502-eng
+add_lunch_combo aosp_c5502-userdebug
+add_lunch_combo aosp_c5503-eng
+add_lunch_combo aosp_c5503-userdebug
