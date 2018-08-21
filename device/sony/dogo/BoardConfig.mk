@@ -29,5 +29,3 @@ include $(DEVICE_PATH)/board/*.mk
 
 # Board device vendor
 -include vendor/sony/dogo/BoardConfigVendor.mk
-
-USE_CUSTOM_AUDIO_POLICY=0
